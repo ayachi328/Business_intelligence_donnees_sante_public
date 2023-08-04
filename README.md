@@ -1,4 +1,4 @@
-# Business_intelligence_donnees_sante_public
+# Business intelligence - Données de santé public
 Analyse statistique multivariée et présentations graphiques interactives sur un jeu de données de santé public
 
 L'agence "Santé publique France" a lancé un appel à projets pour rendre les données de santé plus accessibles. L’agence souhaite faire explorer et visualiser des données, pour que ses agents puissent les exploiter.
